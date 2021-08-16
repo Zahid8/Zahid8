@@ -29,6 +29,11 @@ Hi, I'm Zahid Hussain, a **`Deep Learning dev 🚀 `** and **`Researcher 🔭 `*
 - 📫 How to reach me: zahidhussain909@gmail.com;
 
 
+### 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/Zahid*?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+
+
 ### Stats
 
 
