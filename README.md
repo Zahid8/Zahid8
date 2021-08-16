@@ -37,7 +37,7 @@ Hi, I'm Zahid Hussain, a **`Deep Learning dev 🚀 `** and **`Researcher 🔭 `*
 
 **Languages and Tools:**  
 
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" ></code>
+[] <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" ></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" ></code>
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" ></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" ></code>
