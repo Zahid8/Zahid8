@@ -1,7 +1,7 @@
 <!--# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm [Zahid!](https://github.com/Zahid8) -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Zahid+Hussain...;Nice+to+meet+you!&center=true&size=31">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Zahid+Hussain;Nice+to+meet+you!&center=true&size=31">
   </a>
 </h1>
 
