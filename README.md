@@ -19,12 +19,11 @@ Hi, I'm Zahid Hussain, a **`Deep Learning dev 🚀 `** and **`Researcher 🔭 `*
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Weather Based Short Term Load Forecasting](https://github.com/officialpm);
+- 👨🏽‍💻 I’m currently working on [Image enhancement and generation using WGANS and autoencoders](https://github.com/Zahid8);
 - 🌱 I’m currently learning almost **`everything`**; 
-- 👯 I'm looking to collaborate on **`AI/ML`** and **`Blockchain`**;
+- 👯 I'm looking to collaborate on **`AI/ML`**;
 - 💬 Ask me about anything, I am happy to help;
-- 🏆 Winner of **`Smart India Hackathon🚀 2020 (PSCode: MS450)`**  which is **`World's Biggest Open Innovation Model`**;
-- 📫 How to reach me: officialparthmaniar@gmail.com;
+- 📫 How to reach me: zahidhussain909@gmail.com;
 
 
 ### Stats
