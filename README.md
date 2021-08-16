@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-parthdmaniar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zahidhussain909/)](https://www.linkedin.com/in/zahidhussain909/)
+[![Linkedin Badge](https://img.shields.io/badge/-Zahid Hussain-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zahidhussain909/)](https://www.linkedin.com/in/zahidhussain909/)
 [![Twitter Badge](https://img.shields.io/badge/-@theteacoder-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ZahidHu30360793)](https://twitter.com/ZahidHu30360793)
 [![Instagram Badge](https://img.shields.io/badge/-@theteacoder-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_i_am_zahid/)](https://www.instagram.com/_i_am_zahid/)
 [![Gmail Badge](https://img.shields.io/badge/-officialparthmaniar-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:officialparthmaniar@gmail.com)](mailto:officialparthmaniar@gmail.com)
