@@ -31,7 +31,7 @@ Hi, I'm Zahid Hussain, a **`Deep Learning dev 🚀 `** and **`Researcher 🔭 `*
 
 <details>
   <summary><b>Overall Github Stats</b></summary>
-  <a href="https://github.com/officialpm/"><img align="center" title="Parth Maniar's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=officialpm&count_private=true&show_icons=true" /></a>
+  <a href="https://github.com/Zahid8/"><img align="center" title="Zahid Hussain's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zahid8&count_private=true&show_icons=true" /></a>
 </details>
 
 
