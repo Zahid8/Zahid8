@@ -85,15 +85,6 @@ Text           4 mins              ░░░░░░░░░░     0.78%
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />
 </p>
-<!--<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" ></code>
-<code><img height="25" src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" ></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" ></code>
-<code><img height="25" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" ></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" ></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" ></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" ></code>
-<code><img height="25" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" ></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" ></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" ></code>
-<code><img height="25" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" ></code>
-
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+</h3>
