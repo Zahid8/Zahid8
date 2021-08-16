@@ -3,17 +3,17 @@
 
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-ZahidHussain-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zahidhussain909/)](https://www.linkedin.com/in/zahidhussain909/)
-[![Twitter Badge](https://img.shields.io/badge/-@theteacoder-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ZahidHu30360793)](https://twitter.com/ZahidHu30360793)
-[![Instagram Badge](https://img.shields.io/badge/-@theteacoder-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_i_am_zahid/)](https://www.instagram.com/_i_am_zahid/)
-[![Gmail Badge](https://img.shields.io/badge/-officialparthmaniar-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:officialparthmaniar@gmail.com)](mailto:officialparthmaniar@gmail.com)
-![](https://komarev.com/ghpvc/?username=officialpm&style=flat&color=828bed)
+[![Linkedin Badge](https://img.shields.io/badge/-zahidhussain909-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zahidhussain909/)](https://www.linkedin.com/in/zahidhussain909/)
+[![Twitter Badge](https://img.shields.io/badge/-@ZahidHu30360793-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ZahidHu30360793)](https://twitter.com/ZahidHu30360793)
+[![Instagram Badge](https://img.shields.io/badge/-@_i_am_zahid-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_i_am_zahid/)](https://www.instagram.com/_i_am_zahid/)
+[![Gmail Badge](https://img.shields.io/badge/-zahidhussain909-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zahidhussain909@gmail.com)](mailto:zahidhussain909@gmail.com)
+![](https://komarev.com/ghpvc/?username=zahidhussain909&style=flat&color=828bed)
 
 </div>
 
 
 
-Hi, I'm Parth Maniar, a **`Full Stack Developer 🚀 `** and **`Researcher 🔭 `** from India 🇮🇳 . Beside's programming, I enjoy eating food and I prefer Chai ☕ over Coffee
+Hi, I'm Zahid Hussain, a **`Full Stack Developer 🚀 `** and **`Researcher 🔭 `** from India 🇮🇳 . Beside's programming, I enjoy eating food and I prefer Chai ☕ over Coffee
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
