@@ -1,4 +1,4 @@
-## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm [Zahid!](https://github.com/Zahid8) 
+# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm [Zahid!](https://github.com/Zahid8) 
 
 
 <div align="center">
@@ -10,7 +10,8 @@
 ![](https://komarev.com/ghpvc/?username=zahidhussain909&style=flat&color=828bed)
 
 </div>
-
+<br><br>
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
 
 Hi, I'm Zahid Hussain, a **`Deep Learning dev 🚀 `** and **`Researcher 🔭 `** from India 🇮🇳 . a passionate self-taught Machine Learning and Deep Learning enthusiast and a freelance graphic designer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. Beside's programming, I enjoy eating food and I prefer Coffee ☕ over Chai
