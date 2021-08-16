@@ -36,6 +36,15 @@ Hi, I'm Zahid Hussain, a **`Deep Learning dev 🚀 `** and **`Researcher 🔭 `*
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Zahid8&show_icons=true&theme=gotham" alt="Zahid8" />
 
 
+ <h2>📊 Weekly development breakdown: </h2>
+
+
+```text
+Python         9 hrs 19 mins       ████████░░     87.07%
+Kaggle         1 hr 18 mins        █░░░░░░░░░     12.15%
+Text           4 mins              ░░░░░░░░░░     0.78%
+```
+  
 ## **Languages and Tools:**  
 
 <p>
