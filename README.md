@@ -13,7 +13,7 @@
 
 
 
-Hi, I'm Zahid Hussain, a **`Deep Learning dev 🚀 `** and **`Researcher 🔭 `** from India 🇮🇳 . Beside's programming, I enjoy eating food and I prefer Coffee ☕ over Chai
+Hi, I'm Zahid Hussain, a **`Deep Learning dev 🚀 `** and **`Researcher 🔭 `** from India 🇮🇳 . a passionate self-taught Machine Learning and Deep Learning enthusiast and a freelance graphic designer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. Beside's programming, I enjoy eating food and I prefer Coffee ☕ over Chai
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -29,10 +29,11 @@ Hi, I'm Zahid Hussain, a **`Deep Learning dev 🚀 `** and **`Researcher 🔭 `*
 ### Stats
 
 
-<details>
+<!--<details>
   <summary><b>Overall Github Stats</b></summary>
   <a href="https://github.com/Zahid8/"><img align="center" title="Zahid Hussain's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zahid8&count_private=true&show_icons=true" /></a>
-</details>
+</details> -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Zahid8&show_icons=true&theme=gotham" alt="Zahid8" />
 
 
 **Languages and Tools:**  
