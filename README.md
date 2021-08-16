@@ -27,9 +27,9 @@ Hi, I'm Zahid Hussain, a **`Deep Learning dev 🚀 `** and **`Researcher 🔭 `*
 - 👨🏽‍💻 I’m currently working on [Image enhancement and generation using WGANS and autoencoders](https://github.com/Zahid8)
 - 🌱 I’m currently learning almost **`everything`**
 - 👯 I'm looking to collaborate on **`AI/ML`**
-- 👷 <samp>Currently pursuing B.Tech in Electronics Engineering(2019-2023) from Zakir Hussain college of Engineering and Technology
-- 💼 <samp>I’m looking for **Internship** Opportunities/roles.
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
+- 👷 Currently pursuing B.Tech in Electronics Engineering(2019-2023) from Zakir Hussain college of Engineering and Technology
+- 💼 I’m looking for **Internship** Opportunities/roles.
+- 🤔 I’m looking for help with how to excel in Competitive Programming
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: zahidhussain909@gmail.com
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
