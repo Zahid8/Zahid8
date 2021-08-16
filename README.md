@@ -1,4 +1,4 @@
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm [Zahid!](https://github.com/Zahid8) 
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm [Zahid!](https://github.com/Zahid8) 
 
 
 <div align="center">
@@ -17,7 +17,7 @@ Hi, I'm Zahid Hussain, a **`Deep Learning dev 🚀 `** and **`Researcher 🔭 `*
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-**Talking about Personal Stuffs:**
+### **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Image enhancement and generation using WGANS and autoencoders](https://github.com/Zahid8);
 - 🌱 I’m currently learning almost **`everything`**; 
@@ -45,7 +45,7 @@ Kaggle         1 hr 18 mins        █░░░░░░░░░     12.15%
 Text           4 mins              ░░░░░░░░░░     0.78%
 ```
   
-## **Languages and Tools:**  
+### **Languages and Tools:**  
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
