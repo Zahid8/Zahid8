@@ -11,7 +11,8 @@
 
 </div>
 <br><br>
-![](https://raw.githubusercontent.com/Zahid8/Zahid8/main/header.png)
+<img align="center" alt="image" src="https://raw.githubusercontent.com/Zahid8/Zahid8/main/header.png" />
+
 
 
 Hi, I'm Zahid Hussain, a **`Deep Learning dev 🚀 `** and **`Researcher 🔭 `** from India 🇮🇳 . a passionate self-taught Machine Learning and Deep Learning enthusiast and a freelance graphic designer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. Beside's programming, I enjoy eating food and I prefer Coffee ☕ over Chai
