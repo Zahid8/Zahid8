@@ -13,7 +13,7 @@
 
 
 
-Hi, I'm Zahid Hussain, a **`Full Stack Developer 🚀 `** and **`Researcher 🔭 `** from India 🇮🇳 . Beside's programming, I enjoy eating food and I prefer Chai ☕ over Coffee
+Hi, I'm Zahid Hussain, a **`Deep Learning dev 🚀 `** and **`Researcher 🔭 `** from India 🇮🇳 . Beside's programming, I enjoy eating food and I prefer Coffee ☕ over Chai
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
