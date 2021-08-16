@@ -36,7 +36,7 @@ Hi, I'm Zahid Hussain, a **`Deep Learning dev 🚀 `** and **`Researcher 🔭 `*
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Zahid8&show_icons=true&theme=gotham" alt="Zahid8" />
 
 
- <h2>📊 Weekly development breakdown: </h2>
+ ### 📊 Weekly development breakdown:
 
 
 ```text
