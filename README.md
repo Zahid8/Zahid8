@@ -37,7 +37,7 @@ Hi, I'm Zahid Hussain, a **`Deep Learning dev 🚀 `** and **`Researcher 🔭 `*
 - 🤔 I’m looking for help with how to excel in Competitive Programming
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: zahidhussain909@gmail.com
-- ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
+- ⚡ <samp>Fun fact: I like to code and then stare at it in awe of its beauty.
 
 
 
