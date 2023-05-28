@@ -19,8 +19,10 @@
 <img align="center" alt="image" src="https://raw.githubusercontent.com/Zahid8/Zahid8/main/header.png" />
 
 
-
+<!---
 Hi, I'm Zahid Hussain, a **`Deep Learning dev 🚀 `** and **`Researcher 🔭 `** from India 🇮🇳 . a passionate self-taught Machine Learning and Deep Learning enthusiast and a freelance graphic designer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. Beside's programming, I enjoy eating food and I prefer Coffee ☕ over Chai
+-->
+Greetings! I am Zahid Hussain, an enthisiast of Deep Learning developer 🚀, a dedicated researcher 🔭, and an ingenious freelance graphic designer from the magnificent land of India 🇮! With a fervent passion for self-taught mastery in Machine Learning and Deep Learning, I embark on a journey of turning visionary ideas into tangible realities adorned with elegant interfaces. My meticulous attention is dedicated to delivering impeccable user experiences, impeccable architectural designs, and code of the utmost quality. While the symphony of programming enlivens my soul, the epicurean pleasures of savoring delectable cuisine captivate my senses, particularly the allure of a finely brewed cup of coffee ☕, reigning supreme over the traditional charm of Chai.
 
 - BTW I use [<img src="https://raw.githubusercontent.com/Zahid8/Zahid8/main/popos.svg" height="30em" align="center" alt="Arch Linux Logo" title="Pop OS Logo"/>](https://pop.system76.com/)
 
