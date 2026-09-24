@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1b2a,55:1b4965,100:5fa8d3&text=Zahid%20Hussain&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Reinforcement%20Learning%20%C2%B7%20Physical%20AI%20%C2%B7%20Autonomous%20Systems&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Zahid Hussain" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=5FA8D3&center=true&vCenter=true&width=620&lines=Teaching+machines+to+act+in+the+physical+world;Drones+%C2%B7+AUVs+%C2%B7+Cars+%C2%B7+Robot+arms;Multi-agent+RL+%C2%B7+World+models+%C2%B7+Safe+control;MS+Computer+Engineering+%40+Texas+A%26M" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=5FA8D3&center=true&vCenter=true&width=620&lines=Teaching+machines+to+act+in+the+physical+world;Drones+%C2%B7+AUVs+%C2%B7+Cars+%C2%B7+Robot+arms;Multi-agent+RL+%C2%B7+World+models+%C2%B7+Safe+control;Ph.D.+Computer+Engineering+%40+Texas+A%26M" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,13 +23,13 @@
 
 ## 👋 About me
 
-I'm an **MS Computer Engineering student at Texas A&M University** working on **reinforcement learning for Physical AI**: agents that have to perceive, predict and act in a physical world that is noisy, delayed and unforgiving.
+I'm a **Ph.D. student in Computer Engineering at Texas A&M University** working on **reinforcement learning for Physical AI**: agents that have to perceive, predict and act in a physical world that is noisy, delayed and unforgiving.
 
 My work covers the whole loop. I build the **simulators and digital twins**, the **world models** that predict what an action will do, the **multi-agent policies** that coordinate fleets, and the **safety layers** that keep them from crashing into each other. I apply it to **drones, underwater vehicles, cars and robot arms**. I got into this through underwater robotics, building AUV and ROV software for competition teams during my undergrad.
 
 ```python
 class Zahid:
-    role      = "MS Computer Engineering @ Texas A&M University"
+    role      = "Ph.D. Computer Engineering @ Texas A&M University"
     research  = ["Reinforcement Learning", "Physical AI", "Multi-Agent RL", "World Models"]
     platforms = ["🚁 drone swarms", "🌊 AUV fleets", "🚗 self-driving", "🦾 manipulation"]
     toolbox   = ["PyTorch", "MuJoCo", "PettingZoo", "V-JEPA 2", "Three.js"]
@@ -145,7 +145,7 @@ I also rebuild research papers as **interactive, scroll-driven explainers** with
 
 ## 🤝 Let's talk
 
-- 🎓 **MS Computer Engineering**, Texas A&M University · **B.Tech Electronics Engineering**, ZHCET, Aligarh Muslim University (2019–2023)
+- 🎓 **Ph.D. Computer Engineering**, Texas A&M University · **B.Tech Electronics Engineering**, ZHCET, Aligarh Muslim University (2019–2023)
 - 🔬 Open to **research collaborations** and **opportunities** in RL, robotics and autonomous systems
 - 📫 **zahidhussain909@gmail.com**
 
