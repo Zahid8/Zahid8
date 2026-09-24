@@ -1,10 +1,10 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1b2a,55:1b4965,100:5fa8d3&text=Zahid%20Hussain&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Reinforcement%20Learning%20%C2%B7%20Physical%20AI%20%C2%B7%20Autonomous%20Systems&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Zahid Hussain" />
+<img src="./banner.svg" width="100%" alt="Zahid Hussain: Reinforcement Learning · Physical AI · Autonomous Systems" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=5FA8D3&center=true&vCenter=true&width=620&lines=Teaching+machines+to+act+in+the+physical+world;Drones+%C2%B7+AUVs+%C2%B7+Cars+%C2%B7+Robot+arms;Multi-agent+RL+%C2%B7+World+models+%C2%B7+Safe+control;Ph.D.+Computer+Engineering+%40+Texas+A%26M" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=5FA8D3&center=true&vCenter=true&width=620&lines=Teaching+machines+to+act+in+the+physical+world;Multi-agent+RL+%C2%B7+World+models+%C2%B7+Safe+control;From+simulation+to+policy" alt="Typing SVG" />
 </a>
 
 <br/>
