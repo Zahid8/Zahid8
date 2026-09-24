@@ -27,6 +27,8 @@ I'm a **Ph.D. student in Computer Engineering at Texas A&M University** working 
 
 My work covers the whole loop. I build the **simulators and digital twins**, the **world models** that predict what an action will do, the **multi-agent policies** that coordinate fleets, and the **safety layers** that keep them from crashing into each other. I apply it to **drones, underwater vehicles, cars and robot arms**. I got into this through underwater robotics, building AUV and ROV software for competition teams during my undergrad.
 
+Away from the keyboard, I take **fitness** just as seriously. I train consistently, keep my diet dialled in, and I'm working towards **six-pack abs**. It's the same game as RL: a sparse, delayed reward that only shows up if you stay consistent.
+
 ```python
 class Zahid:
     role      = "Ph.D. Computer Engineering @ Texas A&M University"
@@ -34,6 +36,7 @@ class Zahid:
     platforms = ["🚁 drone swarms", "🌊 AUV fleets", "🚗 self-driving", "🦾 manipulation"]
     toolbox   = ["PyTorch", "MuJoCo", "PettingZoo", "V-JEPA 2", "Three.js"]
     currently = "training one policy that can fly a drone team of any size"
+    off_duty  = "training + clean diet, chasing a six-pack 💪"
     fuel      = "coffee ☕ > chai"
     fun_fact  = "I like to code and then stare at it in awe of its beauty."
 ```
