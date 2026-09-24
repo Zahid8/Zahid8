@@ -1,101 +1,152 @@
-<!--# Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm [Zahid!](https://github.com/Zahid8) -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Zahid+Hussain;Nice+to+meet+you!&center=true&size=31">
-  </a>
-</h1>
-
-
+<!-- ============================== HEADER ============================== -->
 <div align="center">
-  
-[![Linkedin Badge](https://img.shields.io/badge/-zahidhussain909-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zahidhussain909/)](https://www.linkedin.com/in/zahidhussain909/)
-[![Twitter Badge](https://img.shields.io/badge/-@ZahidHu30360793-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ZahidHu30360793)](https://twitter.com/ZahidHu30360793)
-[![Instagram Badge](https://img.shields.io/badge/-@_i_am_zahid-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_i_am_zahid/)](https://www.instagram.com/_i_am_zahid/)
-[![Gmail Badge](https://img.shields.io/badge/-zahidhussain909-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zahidhussain909@gmail.com)](mailto:zahidhussain909@gmail.com)
-![](https://komarev.com/ghpvc/?username=zahidhussain909&style=flat&color=828bed)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1b2a,55:1b4965,100:5fa8d3&text=Zahid%20Hussain&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Reinforcement%20Learning%20%C2%B7%20Physical%20AI%20%C2%B7%20Autonomous%20Systems&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Zahid Hussain" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=5FA8D3&center=true&vCenter=true&width=620&lines=Teaching+machines+to+act+in+the+physical+world;Drones+%C2%B7+AUVs+%C2%B7+Cars+%C2%B7+Robot+arms;Multi-agent+RL+%C2%B7+World+models+%C2%B7+Safe+control;MS+Computer+Engineering+%40+Texas+A%26M" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/zahidhussain909/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/ZahidHu30360793"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="mailto:zahidhussain909@gmail.com"><img src="https://img.shields.io/badge/Email-C14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://papers.zahid.win"><img src="https://img.shields.io/badge/Paper_Explainers-1B4965?style=for-the-badge&logo=bookstack&logoColor=white" alt="Paper explainers" /></a>
+<a href="https://www.instagram.com/_i_am_zahid/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=zahidhussain909&style=flat-square&color=1b4965&label=profile+views" alt="Profile views" />
 
 </div>
-<br>
-<img align="center" alt="image" src="https://raw.githubusercontent.com/Zahid8/Zahid8/main/header.png" />
 
+<!-- ============================== ABOUT ============================== -->
 
-<!---
-Hi, I'm Zahid Hussain, a **`Deep Learning dev 🚀 `** and **`Researcher 🔭 `** from India 🇮🇳 . a passionate self-taught Machine Learning and Deep Learning enthusiast and a freelance graphic designer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. Beside's programming, I enjoy eating food and I prefer Coffee ☕ over Chai
--->
-Greetings! I am Zahid Hussain, a Deep Learning developer 🚀, a dedicated researcher 🔭, and an ingenious freelance graphic designer from the magnificent land of India 🇮🇳! With a fervent passion for self-taught mastery in Machine Learning and Deep Learning, I embark on a journey of turning visionary ideas into tangible realities adorned with elegant interfaces. My meticulous attention is dedicated to delivering impeccable user experiences, impeccable architectural designs, and code of the utmost quality. While the symphony of programming enlivens my soul, the epicurean pleasures of savoring delectable cuisine captivate my senses, particularly the allure of a finely brewed cup of coffee ☕, reigning supreme over the traditional charm of Chai.
+## 👋 About me
 
-- BTW I use [<img src="https://raw.githubusercontent.com/Zahid8/Zahid8/main/popos.svg" height="30em" align="center" alt="Arch Linux Logo" title="Pop OS Logo"/>](https://pop.system76.com/)
+I'm an **MS Computer Engineering student at Texas A&M University** working on **reinforcement learning for Physical AI**: agents that have to perceive, predict and act in a physical world that is noisy, delayed and unforgiving.
 
+My work covers the whole loop. I build the **simulators and digital twins**, the **world models** that predict what an action will do, the **multi-agent policies** that coordinate fleets, and the **safety layers** that keep them from crashing into each other. I apply it to **drones, underwater vehicles, cars and robot arms**. I got into this through underwater robotics, building AUV and ROV software for competition teams during my undergrad.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
-### **Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on [Image enhancement and generation using WGANS and autoencoders](https://github.com/Zahid8)
-- 🌱 I’m currently learning almost **`everything`**
-- 👯 I'm looking to collaborate on **`AI/ML`**
-- 👷 Currently pursuing B.Tech in Electronics Engineering(2019-2023) from Zakir Hussain college of Engineering and Technology
-- 💼 I’m looking for **Internship** Opportunities/roles.
-- 🤔 I’m looking for help with how to excel in Competitive Programming
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: zahidhussain909@gmail.com
-- ⚡ <samp>Fun fact: I like to code and then stare at it in awe of its beauty.
-
-
-
-### Stats:
-
-
-<!--<details>
-  <summary><b>Overall Github Stats</b></summary>
-  <a href="https://github.com/Zahid8/"><img align="center" title="Zahid Hussain's Github Stats" alt="Divy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Zahid8&count_private=true&show_icons=true" /></a>
-</details> -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Zahid8&show_icons=true&theme=gotham" alt="Zahid8" />
-
-
- ### 📊 Weekly development breakdown:
-
-
-```text
-Python         9 hrs 19 mins       ████████░░     87.07%
-Kaggle         1 hr 18 mins        █░░░░░░░░░     12.15%
-Text           4 mins              ░░░░░░░░░░     0.78%
+```python
+class Zahid:
+    role      = "MS Computer Engineering @ Texas A&M University"
+    research  = ["Reinforcement Learning", "Physical AI", "Multi-Agent RL", "World Models"]
+    platforms = ["🚁 drone swarms", "🌊 AUV fleets", "🚗 self-driving", "🦾 manipulation"]
+    toolbox   = ["PyTorch", "MuJoCo", "PettingZoo", "V-JEPA 2", "Three.js"]
+    currently = "training one policy that can fly a drone team of any size"
+    fuel      = "coffee ☕ > chai"
+    fun_fact  = "I like to code and then stare at it in awe of its beauty."
 ```
-  
-### **Languages and Tools:**  
+
+<!-- ============================== RESEARCH ============================== -->
+
+## 🧭 What I work on
+
+My research sits where **reinforcement learning meets the physical world**. I care about autonomous machines that have to coordinate, stay safe and make decisions from imperfect sensing, and I work on them from simulation through to policy.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚁 Autonomous drones</h3>
+      <b>Multi-agent RL for aerial swarms.</b> Policies that generalise across team size and team split instead of being locked to one configuration. Cooperative formation and coverage, competitive pursuit–evasion and capture-the-flag trained through self-play leagues, and RL for navigation that stays resilient when GPS can't be trusted.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌊 Underwater vehicles</h3>
+      <b>Safe multi-agent RL for AUV fleets.</b> Underwater, acoustic messages arrive late or not at all, so I work on control-barrier-function safety shields that keep a fleet collision-free under communication delay and packet loss, with RL learning the control on top.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🚗 Autonomous driving</h3>
+      <b>World models for driving.</b> Turning self-supervised video representations (V-JEPA) into action-conditioned world models that let a driving policy imagine the future before it acts, learned from real-world driving data.
+    </td>
+    <td valign="top">
+      <h3>🦾 Robot manipulation</h3>
+      <b>Object-centric world models from pixels.</b> Robot arms that see only camera frames but reason about <i>objects</i>, choose subgoals relative to them, and correct their own mistakes through interactive imitation (DAgger).
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>📡 Physical sensing</h3>
+      <b>RL that decides where to measure.</b> Constrained and risk-sensitive RL for placing a handful of sensors on physical fields you can't observe directly, so the field can be reconstructed accurately and robustly on a tight sensor budget.
+    </td>
+    <td valign="top">
+      <h3>🕹️ Simulation & digital twins</h3>
+      <b>Building the worlds agents learn in.</b> Deterministic, vectorised simulators with realistic dynamics, wind, battery drain and lossy communication, plus MuJoCo environments and live 3D twins in the browser for watching policies act.
+    </td>
+  </tr>
+</table>
+
+### 🧪 Methods I use
 
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-    <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img alt="Gimp" src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" />
-  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
-  <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
-   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />  
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
-  <img alt="TOR" src="https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white" />
-  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-   <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multi--Agent_RL-1b4965?style=flat-square" alt="Multi-agent RL" />
+  <img src="https://img.shields.io/badge/MAPPO_%C2%B7_PPO-1b4965?style=flat-square" alt="MAPPO and PPO" />
+  <img src="https://img.shields.io/badge/Self--Play_Leagues-1b4965?style=flat-square" alt="Self-play leagues" />
+  <img src="https://img.shields.io/badge/World_Models-1b4965?style=flat-square" alt="World models" />
+  <img src="https://img.shields.io/badge/JEPA_%C2%B7_Self--Supervised_Video-1b4965?style=flat-square" alt="JEPA and self-supervised video" />
+  <img src="https://img.shields.io/badge/Safe_%26_Constrained_RL-1b4965?style=flat-square" alt="Safe and constrained RL" />
+  <img src="https://img.shields.io/badge/Control_Barrier_Functions-1b4965?style=flat-square" alt="Control barrier functions" />
+  <img src="https://img.shields.io/badge/Risk--Sensitive_RL-1b4965?style=flat-square" alt="Risk-sensitive RL" />
+  <img src="https://img.shields.io/badge/Imitation_Learning_%C2%B7_DAgger-1b4965?style=flat-square" alt="Imitation learning and DAgger" />
+  <img src="https://img.shields.io/badge/Diffusion_Policy-1b4965?style=flat-square" alt="Diffusion policy" />
+  <img src="https://img.shields.io/badge/Set_Transformers-1b4965?style=flat-square" alt="Set transformers" />
 </p>
 
+<!-- ============================== EXPLAINERS ============================== -->
+
+## 📚 Papers, explained
+
+I also rebuild research papers as **interactive, scroll-driven explainers** with redrawn diagrams, the maths kept intact, and mechanisms you can play with. Topics so far include PPO, REINFORCE, DreamerV3, I-JEPA and V-JEPA 2.1. They live at **[papers.zahid.win](https://papers.zahid.win)**.
+
+<!-- ============================== STACK ============================== -->
+
+## 🧰 Toolbox
+
+<table>
+  <tr>
+    <td align="center" width="150"><b>RL & ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" alt="RL and ML" /><br/>
+      <img src="https://img.shields.io/badge/MuJoCo-0d1b2a?style=flat-square" alt="MuJoCo" />
+      <img src="https://img.shields.io/badge/PettingZoo-0d1b2a?style=flat-square" alt="PettingZoo" />
+      <img src="https://img.shields.io/badge/Gymnasium-0d1b2a?style=flat-square" alt="Gymnasium" />
+      <img src="https://img.shields.io/badge/Meta--World-0d1b2a?style=flat-square" alt="Meta-World" />
+      <img src="https://img.shields.io/badge/CUDA-0d1b2a?style=flat-square&logo=nvidia&logoColor=76B900" alt="CUDA" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Robotics & Systems</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cpp,c,raspberrypi,arduino,ubuntu,bash" alt="Robotics and systems" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Twins & Viz</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,react,nextjs,threejs,vite,fastapi" alt="Digital twins and visualisation" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Infra & Writing</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,githubactions,gcp,latex,vim,vscode" alt="Infra and writing" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Design</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ps,ai,xd" alt="Design" /></td>
+  </tr>
+</table>
+
+<!-- ============================== STATS ============================== -->
+
+## 📈 GitHub activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Zahid8&hide_border=true&background=0D1B2A&stroke=1B4965&ring=5FA8D3&fire=5FA8D3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5FA8D3&sideLabels=A9C7DD&dates=7A93A8" alt="GitHub streak" />
+</div>
+
+<!-- ============================== FOOTER ============================== -->
+
+## 🤝 Let's talk
+
+- 🎓 **MS Computer Engineering**, Texas A&M University · **B.Tech Electronics Engineering**, ZHCET, Aligarh Muslim University (2019–2023)
+- 🔬 Open to **research collaborations** and **opportunities** in RL, robotics and autonomous systems
+- 📫 **zahidhussain909@gmail.com**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5fa8d3,45:1b4965,100:0d1b2a" width="100%" alt="" />
