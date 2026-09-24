@@ -29,6 +29,8 @@ My work covers the whole loop. I build the **simulators and digital twins**, the
 
 Away from the keyboard, I take **fitness** just as seriously. I train consistently, keep my diet dialled in, and I'm working towards **six-pack abs**. It's the same game as RL: a sparse, delayed reward that only shows up if you stay consistent.
 
+> 💪 **On your own health journey?** Let's keep each other motivated. Add me on **Google Health** at **zahidhussain909@gmail.com**.
+
 ```python
 class Zahid:
     role      = "Ph.D. Computer Engineering @ Texas A&M University"
@@ -151,5 +153,6 @@ I also rebuild research papers as **interactive, scroll-driven explainers** with
 - 🎓 **Ph.D. Computer Engineering**, Texas A&M University · **B.Tech Electronics Engineering**, ZHCET, Aligarh Muslim University (2019–2023)
 - 🔬 Open to **research collaborations** and **opportunities** in RL, robotics and autonomous systems
 - 📫 **zahidhussain909@gmail.com**
+- 💪 Fitness accountability buddy? Add me on **Google Health** at the same email
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:5fa8d3,45:1b4965,100:0d1b2a" width="100%" alt="" />
